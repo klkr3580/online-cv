@@ -3,54 +3,45 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Bhavya Sree Kalikiri
+    tagline: Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
+    email: bhavyasreeklkr3580@gmail.com
+    email: bhavya.kalikiri1@wipro.com
+    phone: 9014880084
+    timezone: IST Timezone
+    citizenship: Indian
+    linkedin: https://in.linkedin.com/in/bhavya-sree-kalikiri-61629b225
+    github: https://github.com/kbsr3580
+    
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Telugu
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
+        - idiom: Hindi
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Dancing
           link:
 
-        - item: Snowboarding
+        - item: Fashion Design
           link:
 
-        - item: Cooking
+        - item: Listening Music
           link:
 
 career-profile:
@@ -90,19 +81,11 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Project Engineer
+        time: 2022 - Present
+        company: Wipro Limited, Bengaluru , India.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
